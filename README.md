@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hej!
 
-<!--
-**jonathanhudak/jonathanhudak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 🧑🏻‍💻 I’m currently working on ∙
 
-Here are some ideas to get you started:
+- [AWS Amplify](https://aws.amazon.com/amplify/hosting)
+- Random code ramblings and ideas here: <https://hudak.codes>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 🌱 I’m currently learning ∙
+
+- [Deno](https://deno.land/)
+- [Svelte](https://svelte.dev/)
+- The [WebAudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+  - [toy piano app 🎹](https://jonathanhudak.github.io/audio.hudak.land/)
+- The [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
