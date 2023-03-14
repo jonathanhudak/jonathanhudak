@@ -1,11 +1,12 @@
 ### Hej!
 
-#### 🔭 🧑🏻‍💻 I’m currently working on ∙
+
+#### 🔭 🧑🏻‍💻 I’m currently working on
 
 - [AWS Amplify](https://aws.amazon.com/amplify/hosting)
-- Random code ramblings and ideas here: <https://hudak.codes>
+- <https://hudak.codes>
 
-#### 🧠 🌱 I’m currently learning ∙
+#### 🧠 🌱 I’m currently learning
 
 - [Deno](https://deno.land/)
 - [Svelte](https://svelte.dev/)
