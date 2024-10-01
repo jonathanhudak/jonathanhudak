@@ -3,7 +3,7 @@
 
 #### 🔭 🧑🏻‍💻 I’m currently working on
 
-- [AWS Amplify](https://aws.amazon.com/amplify/hosting)
+- Amazon Devices Brand Studio
 - <https://hudak.codes>
 
 #### 🧠 🌱 I’m currently learning
